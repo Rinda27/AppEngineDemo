@@ -8,8 +8,8 @@
     <title>Buddies.com</title>
 </head>
 
-<body style="background:darkgray;">
-    <div style="color:rgb(252, 252, 252); padding: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
+<body style="background:white;">
+    <div style="color:rgb(128, 128, 128); padding: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
         <h1 style="color: red;">Selamat Datang di Bangkit Buddies #3</h1>
         <h3>App Engine Demo</h3>
     </div>
